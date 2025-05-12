@@ -396,16 +396,4 @@ In this study, we aimed to evaluate the efficacy of various deep learning models
 
 The results underscore the potential of deep learning technologies to revolutionize the diagnostic process for lumbar spine degenerative conditions. By leveraging advanced algorithms, healthcare professionals can achieve a higher level of diagnostic accuracy, leading to improved patient outcomes.
 
-# 7. Future Work
 
-**Suggestions for Further Research**
-
-- **Model Generalization:** Validating the performance of these models across larger and more diverse patient populations to ensure their generalizability and robustness.
-
-- **Continuous Improvement:** Exploring the integration of additional data types, such as genetic markers and patient history, to further enhance the predictive capabilities of the models.
-
-- **Exploring Advanced Architectures**: Trying hybrids deep learning models.
-
-* **Exploring Preprocessing Techniques**: Considering the data was comparatively clean according to our knowledge, there is a scope of improving the performance of the models by further processing the data before training.
-
-In conclusion, the application of deep learning models to predict the severity of left subarticular stenosis represents a promising advancement in the field of spinal health. Continued research and development in this area have the potential to significantly improve diagnostic accuracy and patient care for those suffering from lumbar spine degenerative conditions.
