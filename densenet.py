@@ -221,7 +221,7 @@ for i, cp in enumerate(DENSE_CKPT_PATHS):
     #model.load_state_dict(torch.load(cp,map_location = torch.device('cpu')))
 
 # Ensure you have the correct file path
-    checkpoint_path = r'C:\Users\Pritid\Documents\DenseNet_weights\best_wll_model_fold-0.pt'
+    checkpoint_path = r'C:\Users\tanishbhatia\Documents\DenseNet_weights\best_wll_model_fold-0.pt'
 
     # Try loading the state_dict directly
     try:
