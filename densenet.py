@@ -12,8 +12,8 @@ import re
 import pydicom
 from sklearn.model_selection import train_test_split
 
-DENSE201_DIR = f'C:/Users/Pritid/Documents/DenseNet_weights/'
-DENSE161_DIR = f'/Users/arunac/Downloads/Check/densenet/'
+DENSE201_DIR = f'C:/Users/tanishbhatia/Documents/DenseNet_weights/'
+DENSE161_DIR = f'/Users/tanishbhatia/Downloads/Check/densenet/'
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 print(device)
 N_WORKERS = 0 #os.cpu_count()
